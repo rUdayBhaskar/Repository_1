@@ -13,7 +13,7 @@
 			}],
 			"ParameterLabels": {
 				"VPCCIDR": {
-					"default": "Enter CIDR of new VPC UDAY"
+					"default": "Enter CIDR of new VPC UDAY main edit"
 				},
 				"VPCNAME": {
 					"default": "Enter The VPC Name Here."
