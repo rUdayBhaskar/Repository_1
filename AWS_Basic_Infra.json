@@ -13,7 +13,7 @@
 			}],
 			"ParameterLabels": {
 				"VPCCIDR": {
-					"default": "Enter CIDR of new VPC"
+					"default": "Enter CIDR of new VPC branch MAIN"
 				},
 				"VPCNAME": {
 					"default": "Enter The VPC Name Here."
